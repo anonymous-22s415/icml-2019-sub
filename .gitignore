@@ -111,10 +111,8 @@ ENV/
 MNIST_data/
 train-images-idx3-ubyte
 
-# data files
-*.npz
-*.npy
-*.pkl
+# results
+results/
 
 # .json files
 *.json
