@@ -1,5 +1,7 @@
 Anonymized GitHub repo for ICML 2019 Submission 2025.
 
+This code is provided solely for the purpose of peer review for the ICML 2019 conference.
+
 Click the badge below to deploy the repo to Binder, a cloud Jupyter service.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anonymous-22s415/icml-2019-sub/master)
