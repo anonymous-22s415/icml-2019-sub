@@ -1,0 +1,5 @@
+[flake8]
+ignore = E731, W504
+max-line-length = 100
+
+exclude = critfinder/finders/minresQLP.py
