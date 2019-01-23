@@ -1,0 +1,5 @@
+dependencies:
+- autograd
+- jupyter
+- matplotlib
+- pandas
